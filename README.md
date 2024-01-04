@@ -1,3 +1,3 @@
-I'm luke 
+I'm Luke 
 - Student
 - You can reach me at mosesl27@wpsma.org
