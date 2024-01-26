@@ -5,4 +5,4 @@ I'm Luke
 
 
 
-[https://mosesl2.github.io/Portfolio./main/Index.html
+ https://mosesl2.github.io/Portfol/
