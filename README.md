@@ -5,4 +5,4 @@ I'm Luke
 
 
 
-[https://mosesl2.github.io/Portfolio/html5up-strata/index.html
+[https://mosesl2.github.io/Portfolio/main/Index.html
